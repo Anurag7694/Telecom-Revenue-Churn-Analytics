@@ -129,6 +129,16 @@ The final dashboard contains two pages.
 - Investigate high-leakage customers individually for possible billing or revenue discrepancies.
 
 
+## Dashboard Preview
+
+### Revenue Analysis
+
+![Revenue Analysis Dashboard](Screenshots/Revenue_Analysis.png)
+
+### Customer Churn Analysis
+
+![Customer Churn Dashboard](Screenshots/Churn_Analysis.png)
+
 ```text
 Telecom-Revenue-Churn-Analytics/
 │
