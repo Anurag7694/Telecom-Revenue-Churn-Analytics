@@ -133,11 +133,11 @@ The final dashboard contains two pages.
 
 ### Revenue Analysis
 
-![Revenue Analysis Dashboard](Screenshots/Revenue_Analysis.png)
+![Revenue Analysis Dashboard](Revenue_Analysis.png)
 
 ### Customer Churn Analysis
 
-![Customer Churn Dashboard](Screenshots/Churn_Analysis.png)
+![Customer Churn Dashboard](Churn_Analysis.png)
 
 ```text
 Telecom-Revenue-Churn-Analytics/
